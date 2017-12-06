@@ -15,6 +15,6 @@ Set up:
    by default it take port number as 2104.
    
   -Run Client one the machines you want to clipboard to be combined
-        node clipboard_client.js <IP_OF_SERVER>
+        node clipboard_client.js <IP_OF_SERVER> <PORT_OF_SERVER>
 
 Note: If your server PC is the one you want to combine the clipboard , you need to run Client there as well.
