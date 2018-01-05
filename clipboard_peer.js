@@ -1,8 +1,16 @@
 var ncp = require("copy-paste");
-const WebSocket = require("ws");
 
 //Disable logging
-console.log = function(){};
+//console.log = function(){};
+
+//Take commandline arguments
+
+//Make a UDP server .. bind it to a port
+
+//Detect for change in clipboard activity
+
+// Send it your Peer(s)
+
 
 var IP_OF_SERVER = '127.0.0.1';
 if (process.argv[2]){

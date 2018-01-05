@@ -14,5 +14,8 @@ Set up:
   -Run Peer on a machine make note of its IP
         node clipboard_peer.js -p <PORT_NUMBER> -ip <IP_OF_PEER>
    
+You are free to decide the topology of the network.
+You could give back to back Ip's and make it a RING or give one Ip only to make it STAR configuration 
+
 Note:
   -Make sure you keep the ports same across all the peers.
